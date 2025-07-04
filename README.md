@@ -1,3 +1,13 @@
 # senseglove_ros
 
-For senseglove uploading
+# My SenseGlove ROS Project
+
+This is my awesome project for SenseGlove ROS.
+
+<<<<<<< HEAD
+- Local changes made here.
+- Added some local features.
+=======
+- Remote changes from GitHub.
+- Initial setup description.
+>>>>>>> origin/main
